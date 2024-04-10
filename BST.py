@@ -48,7 +48,7 @@ def height(t):
     
 root=Node(100)
 while True:
-    print("Do you want to add node :")
+    print("Enter your choice :")
     print("1 . Insert ")
     print("2 . Print Inorder " )
     print("3 . Print Post order " )
